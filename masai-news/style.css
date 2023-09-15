@@ -1,0 +1,54 @@
+*{
+    margin: 0px;
+    padding: 0px;
+
+}
+.head{
+    display: flex;
+    justify-content: center;
+    font-size: xx-large;
+    margin-bottom: 5%;
+    font-weight: bold;
+    margin-top: 2%;
+}
+#NR{
+    color:red;
+    margin-left: 5px;
+}
+.box{
+    display: flex; 
+    justify-content: space-evenly;
+    font-weight: bold;
+    font-size: x-large;
+}
+.image1{
+    background-image: url("box1.jpeg");
+    background-size: cover;
+    width: 315px;
+    height: 210px;
+    margin-bottom: 9%;
+}
+.image2{
+    background-image: url("box2.webp");
+    background-size: cover;
+    width: 315px;
+    height: 180px;
+    margin-top: 4%;
+    margin-bottom: 9%;
+}
+.image3{
+    background-image: url("box3.webp");
+    background-size: cover;
+    width: 315px;
+    height: 230px;
+    margin-bottom: 9%;
+}
+.box1  {
+    width: 315px ;
+}
+.box2 {
+    width: 315px ;
+}
+.box3  {
+    width: 315px ;
+}
